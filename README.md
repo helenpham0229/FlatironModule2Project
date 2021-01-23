@@ -11,9 +11,9 @@ The main portion of this project is to clean the dataset and explore the relatio
 
 ## Model
 After comparing and testing different regression with different features, the final model has
-* R-squared:  0.580
-* Training Score:  0.580
-* Test Score: 0.573
+* R-squared:  0.577
+* Training Score:  0.5769
+* Test Score: 0.5815
 * P-values: all are less than 0.05
 
 We also want to make sure that our model met all 4 of linear regression assumptions
@@ -30,13 +30,13 @@ We also want to make sure that our model met all 4 of linear regression assumpti
 * All 4 assumptions of linear regression are met
 * Looking at coefficients and predictors, we can conclude from our model that:
 
->Houses that are renovated or built in the last 10 years increase the sale price of a home by 4833.19 dollars
+>Houses that are renovated or built in the last 10 years increase the sale price of a home by 8401.15 dollars
 
->One unit increase in square footage of internal living space increases the sale price by 147.61 dollars
+>One unit increase in square footage of internal living space increases the sale price by 149.10 dollars
 
->One additional bathroom increases the sale price by 9172.90 dollars
+>One additional bathroom increases the sale price by 6257.71 dollars
 
 ## Future Work
-* Instead of using longitude and latitude as location indicator, we can use zipcode or cities as location point of interest based on population
+* More research on the local economic indicators and housing market
 * Do more research on school district as it could be an important variable in choosing a house
 * Build a regression model to predict prices of homes over 1 million for high income families
