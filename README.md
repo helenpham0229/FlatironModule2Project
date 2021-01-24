@@ -1,5 +1,5 @@
 ## Introduction
-This project involes an iterative approach to building a multiple linear regression model to predict sale prices for houses in King County, WA by utilizing data of houses sold in 2014 and 2015. The dataset also includes several variables such as number of bedrooms, number of times the house was viewed before being bought, square footage of the home, the zipcode that the house is located in, and many more.
+This project involves an iterative approach to building a multiple linear regression model to predict sale prices for houses in King County, WA by utilizing data of houses sold in 2014 and 2015. The dataset also includes several variables such as number of bedrooms, number of times the house was viewed before being bought, square footage of the home, the zipcode that the house is located in, and many more.
 
 In this project, I followed the OSEMN (Obtain, Scrub, Explore, Model, and Interpret) framework to find out which independent variables have the most influence in determining the sale price of a house.
 
