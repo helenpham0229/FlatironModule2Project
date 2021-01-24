@@ -29,12 +29,12 @@ We also want to make sure that our model met all 4 of linear regression assumpti
 * All of the independent variables used in the model were significant predictors of sale price with p-values less than 0.05. 
 * All 4 assumptions of linear regression are met
 * Looking at coefficients and predictors, we can conclude from our model that:
+  - Houses that are renovated or built in the last 10 years increase the sale price of a home by 8401.15 dollars
+  - One unit increase in square footage of internal living space increases the sale price by 149.10 dollars
+  - One additional bathroom increases the sale price by 6257.71 dollars
 
->Houses that are renovated or built in the last 10 years increase the sale price of a home by 8401.15 dollars
-
->One unit increase in square footage of internal living space increases the sale price by 149.10 dollars
-
->One additional bathroom increases the sale price by 6257.71 dollars
+## Presentation
+Refer to presentation.pdf file to see the non-technical presentation and recommendations.
 
 ## Future Work
 * More research on the local economic indicators and housing market
